@@ -1,0 +1,2 @@
+# manage-school
+ANGULAR
